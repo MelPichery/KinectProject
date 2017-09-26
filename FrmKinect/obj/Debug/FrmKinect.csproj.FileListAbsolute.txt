@@ -1,0 +1,17 @@
+c:\users\mel\documents\visual studio 2017\Projects\KinectProject\FrmKinect\bin\Debug\FrmKinect.exe
+C:\Users\mel\documents\visual studio 2017\Projects\KinectProject\FrmKinect\bin\Debug\FrmKinect.exe.config
+C:\Users\mel\documents\visual studio 2017\Projects\KinectProject\FrmKinect\bin\Debug\Coding4Fun.Kinect.WinForm.dll
+C:\Users\mel\documents\visual studio 2017\Projects\KinectProject\FrmKinect\bin\Debug\Microsoft.Kinect.dll
+C:\Users\mel\documents\visual studio 2017\Projects\KinectProject\FrmKinect\bin\Debug\Microsoft.Kinect.Toolkit.BackgroundRemoval.dll
+C:\Users\mel\documents\visual studio 2017\Projects\KinectProject\FrmKinect\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\mel\documents\visual studio 2017\Projects\KinectProject\FrmKinect\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\mel\documents\visual studio 2017\Projects\KinectProject\FrmKinect\bin\Debug\Microsoft.Kinect.Toolkit.Fusion.dll
+C:\Users\mel\documents\visual studio 2017\Projects\KinectProject\FrmKinect\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\mel\documents\visual studio 2017\Projects\KinectProject\FrmKinect\bin\Debug\Microsoft.Kinect.xml
+C:\Users\mel\documents\visual studio 2017\Projects\KinectProject\FrmKinect\obj\Debug\FrmKinect.Form1.resources
+C:\Users\mel\documents\visual studio 2017\Projects\KinectProject\FrmKinect\obj\Debug\FrmKinect.Properties.Resources.resources
+C:\Users\mel\documents\visual studio 2017\Projects\KinectProject\FrmKinect\obj\Debug\FrmKinect.csproj.GenerateResource.Cache
+C:\Users\mel\documents\visual studio 2017\Projects\KinectProject\FrmKinect\obj\Debug\FrmKinect.exe
+C:\Users\mel\documents\visual studio 2017\Projects\KinectProject\FrmKinect\obj\Debug\FrmKinect.pdb
+C:\Users\mel\documents\visual studio 2017\Projects\KinectProject\FrmKinect\obj\Debug\FrmKinect.csprojResolveAssemblyReference.cache
+C:\Users\mel\documents\visual studio 2017\Projects\KinectProject\FrmKinect\bin\Debug\FrmKinect.pdb

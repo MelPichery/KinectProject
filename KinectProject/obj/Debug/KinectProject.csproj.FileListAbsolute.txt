@@ -1,0 +1,16 @@
+c:\users\mel\documents\visual studio 2017\Projects\KinectProject\KinectProject\bin\Debug\KinectProject.exe.config
+c:\users\mel\documents\visual studio 2017\Projects\KinectProject\KinectProject\bin\Debug\KinectProject.exe
+c:\users\mel\documents\visual studio 2017\Projects\KinectProject\KinectProject\bin\Debug\KinectProject.pdb
+c:\users\mel\documents\visual studio 2017\Projects\KinectProject\KinectProject\bin\Debug\Microsoft.Kinect.dll
+c:\users\mel\documents\visual studio 2017\Projects\KinectProject\KinectProject\bin\Debug\Microsoft.Kinect.Toolkit.BackgroundRemoval.dll
+c:\users\mel\documents\visual studio 2017\Projects\KinectProject\KinectProject\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+c:\users\mel\documents\visual studio 2017\Projects\KinectProject\KinectProject\bin\Debug\Microsoft.Kinect.Toolkit.dll
+c:\users\mel\documents\visual studio 2017\Projects\KinectProject\KinectProject\bin\Debug\Microsoft.Kinect.Toolkit.Fusion.dll
+c:\users\mel\documents\visual studio 2017\Projects\KinectProject\KinectProject\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+c:\users\mel\documents\visual studio 2017\Projects\KinectProject\KinectProject\bin\Debug\Microsoft.Kinect.xml
+c:\users\mel\documents\visual studio 2017\Projects\KinectProject\KinectProject\obj\Debug\KinectProject.csprojResolveAssemblyReference.cache
+c:\users\mel\documents\visual studio 2017\Projects\KinectProject\KinectProject\obj\Debug\KinectProject.Form1.resources
+c:\users\mel\documents\visual studio 2017\Projects\KinectProject\KinectProject\obj\Debug\KinectProject.Properties.Resources.resources
+c:\users\mel\documents\visual studio 2017\Projects\KinectProject\KinectProject\obj\Debug\KinectProject.csproj.GenerateResource.Cache
+c:\users\mel\documents\visual studio 2017\Projects\KinectProject\KinectProject\obj\Debug\KinectProject.exe
+c:\users\mel\documents\visual studio 2017\Projects\KinectProject\KinectProject\obj\Debug\KinectProject.pdb
